@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.DS_Store
+*.log
+.claude/
+public/wiregasm/
+ios/App/App/public/
